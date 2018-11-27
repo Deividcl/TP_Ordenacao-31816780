@@ -1,0 +1,7 @@
+C:\Users\BR\Desktop\tp_ordenacao\tp_ordenacao\bin\Debug\tp_ordenacao.exe.config
+C:\Users\BR\Desktop\tp_ordenacao\tp_ordenacao\bin\Debug\tp_ordenacao.exe
+C:\Users\BR\Desktop\tp_ordenacao\tp_ordenacao\bin\Debug\tp_ordenacao.pdb
+C:\Users\BR\Desktop\tp_ordenacao\tp_ordenacao\obj\Debug\tp_ordenacao.csproj.CoreCompileInputs.cache
+C:\Users\BR\Desktop\tp_ordenacao\tp_ordenacao\obj\Debug\tp_ordenacao.exe
+C:\Users\BR\Desktop\tp_ordenacao\tp_ordenacao\obj\Debug\tp_ordenacao.pdb
+C:\Users\BR\Desktop\tp_ordenacao\tp_ordenacao\obj\Debug\tp_ordenacao.csprojAssemblyReference.cache
